@@ -11,10 +11,10 @@ Desenvolvimento de uma ferramenta de reconhecimento de rede que integra múltipl
 
 ## Dependências
 
-5. Python 3
-6. Scapy
-7. Requests
-8. Nmap
+- Python 3
+- Scapy
+- Requests
+- Nmap
 
 ## Uso
 
