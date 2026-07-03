@@ -4,17 +4,17 @@ Desenvolvimento de uma ferramenta de reconhecimento de rede que integra múltipl
 
 ## Instalação
 
-- Clone este repositório.
-- Crie um ambiente virtual: `python3 -m venv venv && source venv/bin/activate`
-- Instale as dependências: `pip install -r requirements.txt`
-- Execute: `sudo python3 Consulta.py <IP>`
+1. Clone este repositório.
+2. Crie um ambiente virtual: `python3 -m venv venv && source venv/bin/activate`
+3. Instale as dependências: `pip install -r requirements.txt`
+4. Execute: `sudo python3 Consulta.py <IP>`
 
 ## Dependências
 
-- Python 3
-- Scapy
-- Requests
-- Nmap
+5. Python 3
+6. Scapy
+7. Requests
+8. Nmap
 
 ## Uso
 
