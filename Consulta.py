@@ -61,7 +61,7 @@ def arping(arg):
         if resposta is not None:
             print("Recebeu um pacote, mas não é uma resposta ARP esperada.")
         return None
-
+    
 def info_mac(mac_encontrado):
     set2 = set()
     headers = {
@@ -99,4 +99,4 @@ consulta_ip(arg)
 varredura_consulta(arg)
 mac_encontrado = arping(arg)
 if mac_encontrado:
-    info_mac(mac_encontrado)
+   info_mac(mac_encontrado)
